@@ -3,7 +3,7 @@
 ## Sobre Mim
 Sou um desenvolvedor de software com experiência em Delphi e NodeJS.
 
-- 🔭 Atualmente estou trabalhando em um projeto e-commerce.
+- 🔭 Atualmente estou trabalhando em um projeto e-commerce (privado).
 - 🌱 Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
 - 👯 Procuro colaborar em projetos de código aberto e ajudar a comunidade de desenvolvedores.
 
