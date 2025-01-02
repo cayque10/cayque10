@@ -1,9 +1,9 @@
 # Olá! Eu sou Cayque 👋
 
 ## Sobre Mim
-Sou um desenvolvedor de software com experiência em Delphi e NodeJS.
+Desenvolvedor de software apaixonado por criar soluções inovadoras e eficazes. Tenho experiência em várias tecnologias, incluindo Delphi, Node.js e React Native, e sempre busco aprender algo novo para aprimorar minhas habilidades.
 
-- 🔭 Atualmente estou trabalhando em um projeto e-commerce (privado).
+- 🔭 Projetos pessoais: <a href="https://jupeixotodoceria.com" target="_blank">Jú Peixoto Doceria</a> - IOS - Android
 - 🌱 Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
 - 👯 Procuro colaborar em projetos de código aberto e ajudar a comunidade de desenvolvedores.
 
