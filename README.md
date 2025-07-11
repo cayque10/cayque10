@@ -5,7 +5,7 @@ Desenvolvedor de software apaixonado por criar soluções inovadoras e eficazes.
 
 - 🔭 Projetos pessoais: <a href="https://jupeixotodoceria.com" target="_blank">Jú Peixoto Doceria</a> - Web - IOS - Android
 - 🌱 Estou sempre aprendendo e explorando novas tecnologias para aprimorar minhas habilidades.
-- 👯 Procuro colaborar em projetos de código aberto e ajudar a comunidade de desenvolvedores.
+- 💻 Procuro colaborar em projetos de código aberto e ajudar a comunidade de desenvolvedores.
 
 ## Tecnologias e Ferramentas
 ![Delphi](https://img.shields.io/badge/Delphi-%23B22222.svg?style=for-the-badge&logo=delphi&logoColor=white)
